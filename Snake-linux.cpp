@@ -80,7 +80,6 @@ int main(){
     while(!gameover){
         display();
         getInput();
-        // cout<<"Input ka wait\n";
         gamePlay();
     }
     return 0;
